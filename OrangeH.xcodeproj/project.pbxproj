@@ -14,6 +14,9 @@
 		00425D7E271933C0001C3B2C /* OrangeH.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 00425D7C271933C0001C3B2C /* OrangeH.xcdatamodeld */; };
 		00425D80271933C3001C3B2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00425D7F271933C3001C3B2C /* Assets.xcassets */; };
 		00425D83271933C3001C3B2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00425D81271933C3001C3B2C /* LaunchScreen.storyboard */; };
+		00425D8D2719638E001C3B2C /* HomeTabelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00425D8C2719638E001C3B2C /* HomeTabelVC.swift */; };
+		00425D90271963B7001C3B2C /* DeviceTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00425D8F271963B7001C3B2C /* DeviceTableVC.swift */; };
+		00425D9327196E53001C3B2C /* System-extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00425D9227196E53001C3B2C /* System-extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		00425D7F271933C3001C3B2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00425D82271933C3001C3B2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00425D84271933C3001C3B2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00425D8C2719638E001C3B2C /* HomeTabelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabelVC.swift; sourceTree = "<group>"; };
+		00425D8F271963B7001C3B2C /* DeviceTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceTableVC.swift; sourceTree = "<group>"; };
+		00425D9227196E53001C3B2C /* System-extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "System-extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +67,10 @@
 				00425D73271933C0001C3B2C /* AppDelegate.swift */,
 				00425D75271933C0001C3B2C /* SceneDelegate.swift */,
 				00425D77271933C0001C3B2C /* ViewController.swift */,
+				00425D8C2719638E001C3B2C /* HomeTabelVC.swift */,
+				00425D8F271963B7001C3B2C /* DeviceTableVC.swift */,
 				00425D79271933C0001C3B2C /* Main.storyboard */,
+				00425D9227196E53001C3B2C /* System-extension.swift */,
 				00425D7F271933C3001C3B2C /* Assets.xcassets */,
 				00425D81271933C3001C3B2C /* LaunchScreen.storyboard */,
 				00425D84271933C3001C3B2C /* Info.plist */,
@@ -143,7 +152,10 @@
 				00425D7E271933C0001C3B2C /* OrangeH.xcdatamodeld in Sources */,
 				00425D78271933C0001C3B2C /* ViewController.swift in Sources */,
 				00425D74271933C0001C3B2C /* AppDelegate.swift in Sources */,
+				00425D90271963B7001C3B2C /* DeviceTableVC.swift in Sources */,
 				00425D76271933C0001C3B2C /* SceneDelegate.swift in Sources */,
+				00425D8D2719638E001C3B2C /* HomeTabelVC.swift in Sources */,
+				00425D9327196E53001C3B2C /* System-extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
